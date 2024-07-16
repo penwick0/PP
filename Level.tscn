@@ -2580,3 +2580,7 @@ position = Vector2(51, 67)
 [node name="Rat" parent="." node_paths=PackedStringArray("player") instance=ExtResource("3_lkl0a")]
 position = Vector2(137, 41)
 player = NodePath("../PP")
+
+[node name="Rat2" parent="." node_paths=PackedStringArray("player") instance=ExtResource("3_lkl0a")]
+position = Vector2(187, 96)
+player = NodePath("../PP")
