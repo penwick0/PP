@@ -1,6 +1,6 @@
 [gd_scene load_steps=22 format=3 uid="uid://cx0335c7mcqta"]
 
-[ext_resource type="Script" path="res://pp.gd" id="1_lckpj"]
+[ext_resource type="Script" uid="uid://cwg8bupvam7je" path="res://pp.gd" id="1_lckpj"]
 [ext_resource type="Texture2D" uid="uid://cy2bq81kwk12o" path="res://bardo_1.png" id="1_n7fbv"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_5fskb"]
